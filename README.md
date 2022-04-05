@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/Elasticsearch-005571.svg?&style=flat-square&logo=Elasticsearch&logoColor=white" height="27">
-<img src="https://img.shields.io/badge/Celery-37814A.svg?&style=flat-square&logo=Celery&logoColor=white" height="27">
-<img src="https://img.shields.io/badge/Selenium-43B02A.svg?&style=flat-square&logo=Selenium&logoColor=white" height="27">
-
 </div>
 
 ### Frameworks & Library
@@ -38,6 +35,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Selenium-43B02A.svg?&style=flat-square&logo=Selenium&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Celery-37814A.svg?&style=flat-square&logo=Celery&logoColor=white" height="27">
 </div>
 
 ### Tools

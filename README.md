@@ -21,6 +21,14 @@ Here are some ideas to get you started:
 
 ### Languages
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Elasticsearch-005571.svg?&style=flat-square&logo=Elasticsearch&logoColor=white" height="27">
+
+### Frameworks
+<img src="https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white" height="27">
 
 ### Tools
 <div>
@@ -28,6 +36,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" height="27">
+</div>
+
+### Cooperation Tools
+<div>
+<img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Mattermost-0058CC.svg?&style=flat-square&logo=Mattermost&logoColor=white" height="27">
 </div>
 
 <hr>
